@@ -30,3 +30,7 @@ To get rid of everything that was generated after running "make", type "make
 clean" from ./thesis.
 
 Enjoy!
+
+# To Do
+
+Add sample figure, sample table, sample citation, and sample cross-reference
